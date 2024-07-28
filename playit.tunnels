@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "advanced-quiz.gl.joinmc.link",
-          "assigned_srv": "advanced-quiz.gl.joinmc.link",
+          "assigned_domain": "love-needle.gl.joinmc.link",
+          "assigned_srv": "love-needle.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "9ae9f7eb-fcc9-477d-b28a-88fba470b9be",
+          "id": "9534138a-5fcd-44dc-a8fc-ac1b719780a8",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 20471,
-          "port_start": 20470,
+          "port_end": 39393,
+          "port_start": 39392,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-17T23:46:41.796273Z",
+      "created_at": "2024-07-28T00:46:42.621749Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "51ea28e3-4faf-45fe-94a0-3ebcacffae81",
+      "id": "9a27ebb7-095c-49a7-91d0-2d55d433a5ef",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "88d7aa87-e297-405e-9d11-9b7b015fb505",
-          "agent_name": "from-key-c018",
+          "agent_id": "8be82ee3-13d6-4665-acd0-f4812370fa8b",
+          "agent_name": "from-key-cef6",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
