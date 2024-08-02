@@ -3,7 +3,8 @@
 
 # Puedes instalar mohist después de instalas forge desde el menú de gestionar
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
-# Puedes instalar purpur después de instalar fabric desde el menú de gestionar
+# Puedes instalar purpu
+# r después de instalar fabric desde el menú de gestionar
 
 # Regiones de ngrok
 # Código          Lugar
